@@ -1,4 +1,4 @@
-[Mine Sweeper](https://github.com/devbit01/minesweeper/blob/main/docs/minesweeper.png)
+![Mine Sweeper](/docs/minesweeper.png)
 
 # About
 
